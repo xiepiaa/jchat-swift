@@ -26,7 +26,7 @@ JChat 同时具备好友模式和无好友模式：
 
 ### 应用截图
 
-![image](Images/2.jpg)
+![image](Images/iOS1.jpg)
 
 ### 环境配置
 
